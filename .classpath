@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="logs"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ini"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/onTuneLog"/>
+	<classpathentry kind="lib" path="C:/Users/LG/Downloads/onTuneLog.jar" sourcepath="C:/Users/LG/Downloads/onTuneEventSmsPost(v1.0.0.7)/onTuneEventSmsPost.jar.src/com/onTune/logger/LogManager.java"/>
+	<classpathentry kind="lib" path="C:/Users/LG/Downloads/ini4j-0.5.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-8.0.372.7-hotspot"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
